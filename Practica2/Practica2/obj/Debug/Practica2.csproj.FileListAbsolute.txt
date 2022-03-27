@@ -1,0 +1,21 @@
+C:\Users\Jonat\source\repos\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Jonat\source\repos\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\Jonat\source\repos\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Jonat\source\repos\Practica2\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\Jonat\source\repos\Practica2\Practica2\obj\Debug\Practica2.Form1.resources
+C:\Users\Jonat\source\repos\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+C:\Users\Jonat\source\repos\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.cache
+C:\Users\Jonat\source\repos\Practica2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\source\repos\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\Jonat\source\repos\Practica2\Practica2\obj\Debug\Practica2.pdb
+C:\Users\Martin\Documents\Tareas ITESCAM\Topicos\Practica 2\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Martin\Documents\Tareas ITESCAM\Topicos\Practica 2\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\Martin\Documents\Tareas ITESCAM\Topicos\Practica 2\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Martin\Documents\Tareas ITESCAM\Topicos\Practica 2\Practica2\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\Tareas ITESCAM\Topicos\Practica 2\Practica2\Practica2\obj\Debug\Practica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\Documents\Tareas ITESCAM\Topicos\Practica 2\Practica2\Practica2\obj\Debug\Practica2.Form1.resources
+C:\Users\Martin\Documents\Tareas ITESCAM\Topicos\Practica 2\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+C:\Users\Martin\Documents\Tareas ITESCAM\Topicos\Practica 2\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.cache
+C:\Users\Martin\Documents\Tareas ITESCAM\Topicos\Practica 2\Practica2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\Tareas ITESCAM\Topicos\Practica 2\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\Martin\Documents\Tareas ITESCAM\Topicos\Practica 2\Practica2\Practica2\obj\Debug\Practica2.pdb
