@@ -1,0 +1,12 @@
+C:\Users\Martin\source\repos\MiMundo\MiMundo\bin\Debug\MiMundo.exe.config
+C:\Users\Martin\source\repos\MiMundo\MiMundo\bin\Debug\MiMundo.exe
+C:\Users\Martin\source\repos\MiMundo\MiMundo\bin\Debug\MiMundo.pdb
+C:\Users\Martin\source\repos\MiMundo\MiMundo\obj\Debug\MiMundo.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\MiMundo\MiMundo\obj\Debug\MiMundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\source\repos\MiMundo\MiMundo\obj\Debug\MiMundo.Form1.resources
+C:\Users\Martin\source\repos\MiMundo\MiMundo\obj\Debug\MiMundo.Properties.Resources.resources
+C:\Users\Martin\source\repos\MiMundo\MiMundo\obj\Debug\MiMundo.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\MiMundo\MiMundo\obj\Debug\MiMundo.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\MiMundo\MiMundo\obj\Debug\MiMundo.exe
+C:\Users\Martin\source\repos\MiMundo\MiMundo\obj\Debug\MiMundo.pdb
+C:\Users\Martin\source\repos\MiMundo\MiMundo\bin\Debug\Recursos\caminar.png
