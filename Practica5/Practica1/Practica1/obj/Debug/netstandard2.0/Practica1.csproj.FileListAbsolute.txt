@@ -1,0 +1,17 @@
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\bin\Debug\netstandard2.0\Practica1.deps.json
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\bin\Debug\netstandard2.0\Practica1.dll
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\bin\Debug\netstandard2.0\ref\Practica1.dll
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\bin\Debug\netstandard2.0\Practica1.pdb
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.AssemblyInfo.cs
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.dll
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\ref\Practica1.dll
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.pdb
+C:\Users\Martin\source\repos\Practica1\Practica1\Practica1\obj\Debug\netstandard2.0\Home.xaml.g.cs
